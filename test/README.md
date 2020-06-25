@@ -41,5 +41,5 @@ This will run the `test` command and return the `stdout` and `stderr` of the pro
 
 ##### `serve`
 
-This will run serve the application.
+This will not run serve the application.
 It will return the `port` and a `done` function to clean up the process.
