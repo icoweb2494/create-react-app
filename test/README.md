@@ -2,7 +2,7 @@
 
 ## Usage
 
-These tests ensure various functionality contracts are upheld across dependency upgrades.
+These new tests ensure various functionality contracts are upheld across dependency upgrades.
 
 To get started locally, run `cd packages/react-scripts/ && yarn link; cd ../../test/ && ../node_modules/.bin/jest --watchAll`.
 
